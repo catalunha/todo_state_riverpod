@@ -9,3 +9,6 @@ Mas acho que esta abordagem nao é boa. Esta aqui apenas para testes. O melhor p
 # Execução
 Neste projeto não precisa acessar api mas o state nao pode repetir no build da tela.
 Isto é um dos pontos mais importantes deste ToDo.
+
+
+# Substituindo os stateProviders por NotifierProviders
