@@ -6,6 +6,7 @@ import 'package:todo_state_riverpod/app/data/repositories/repositories_providers
 import 'package:todo_state_riverpod/app/data/repositories/todo_repository.dart';
 import 'package:todo_state_riverpod/app/feature/todo/controller/todo_states.dart';
 
+// @riverpod
 class TodoListAsyNotNotifier extends AsyncNotifier<TodoListState> {
   // final TodoRepository _todoRepository;
 
