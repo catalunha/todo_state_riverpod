@@ -1,16 +1,7 @@
 # todo_state_riverpod
 
-A new Flutter project.
+É um projeto para aprendizado do Riverpod.
 
-## Getting Started
+Neste faço igual ao BLoC. Construo um estado unico (com todas as variaveis) e gerencio este estado com um provider.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Mas acho que esta abordagem nao é boa. Esta aqui apenas para testes. O melhor pelos estudos tem sido considerar providers independentes e gerenciar cada feature com base nisto.
