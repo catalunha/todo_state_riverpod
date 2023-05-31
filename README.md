@@ -7,3 +7,4 @@ Neste faço igual ao BLoC. Construo um estado unico (com todas as variaveis) e g
 Mas acho que esta abordagem nao é boa. Esta aqui apenas para testes. O melhor pelos estudos tem sido considerar providers independentes e gerenciar cada feature com base nisto.
 
 # Execução
+Neste projeto não precisa acessar api mas o state nao pode repetir no build da tela
